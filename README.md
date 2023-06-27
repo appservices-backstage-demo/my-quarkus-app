@@ -1,6 +1,6 @@
 # my-quarkus-app
 
-
+adding a comment to trigger the pipeline
 
 ## Running the application in dev mode
 
